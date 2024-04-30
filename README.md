@@ -1,0 +1,4 @@
+该Demo主要介绍如何使用CompletableFuture进行异步编程以及主要的使用场景。
+介绍了CompletableFuture的常用方法，如thenApply、thenAccept、thenRun、thenCompose、thenCombine、runAfterBoth、acceptEither等
+介绍了Future接口及其子接口和一些常用api使用。
+仅供参考。
